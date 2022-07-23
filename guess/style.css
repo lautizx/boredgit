@@ -1,0 +1,29 @@
+.body {
+    max-width: 450px;
+    padding: 15px;
+    background-color: #333;
+}
+body {
+    font-family: 'Edu QLD Beginner', cursive;
+}
+h3 {
+    font-size: 100px;
+}
+input {
+    border: 0;
+    border-bottom: 2px solid #ffff;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    color: #ffff;
+    font-size: 50px;
+    align-content: center;
+}
+#submit {
+    width: 150px;
+    height: 50px;
+}
+#icons>a {
+    text-decoration: none;
+    color: #666;
+}
